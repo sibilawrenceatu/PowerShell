@@ -1,3 +1,4 @@
+#Code for creating a module named helloworld
 $MymodulePath = "c:\users\$env:USERNAME\documents\powershell\modules\helloworld"
 $mymodule = @"
 #helloworld.psm1
