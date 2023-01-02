@@ -1,4 +1,4 @@
-#to get the execution policy
+#to get the execution policy 
 Get-ExecutionPolicy
 #to set the execution policy as unrestricted using force 
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -force
