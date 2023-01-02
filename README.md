@@ -3,7 +3,7 @@ This repository is created for assignment 2 of the IAC Module
 
 # Project Detailed Summary
 
-The goal of this project is to create a bugfix branch named "bugfix" for the Powershell exercises carried out for the weeks 9 to 12. This project has completed by following best practices from the Powershell and Git Hub walkthroughs as specified by the lecturer. The "bugfix" branch is created for this project for the purpose of fixing the bugs already exists to the project, and merge the "bugfix" branch to the "main" branch. Additionally "Dev", "new-features" and "Test" branches were also created by following the best practices in industries as well as the lecturer's notes.   
+The goal of this project is to create a bugfix branch named "bugfix" for the Powershell exercises carried out for the weeks 9 to 12. This project has completed by following best practices from the Powershell and Git Hub walkthroughs as specified by the lecturer. The "bugfix" branch is created for this project for the purpose of fixing the bugs already exists to the project, and merge the "bugfix" branch to the "main" branch. Additionally "Dev", "New-features" and "Test" branches were also created by following the best practices in industries as well as the lecturer's notes.   
 
 ## **Project Scope**
 
