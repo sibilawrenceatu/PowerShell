@@ -34,15 +34,15 @@ All powershell scripts were updated with proper comments.
 
 ### **Detailed description of the Powershell Scripts**
 
-#### <u>**Pwershell folder:-**</u>
-This folder contains scripts practiced for installation of powershell version 7 to the student laptop and the prerequisites required for the installation. It also contains the scripts for finding all the modules in powershell and customisation of a new module. The folder also contains scripts for commissioning a new domain controller 
+#### <u>**Powershell folder:-**</u>
+This folder contains scripts practiced for installation of powershell version 7 to the student laptop and the prerequisites required for the installation. It also contains the scripts for finding all the modules in powershell and customisation of a new module. The folder also contains scripts for commissioning a new domain controller for a new forest “ads.solarsubmaines.com” along with commissioning of a new member server to the same active directory forest. The scripts also focus on configuring the Desired State Configuration (DSC) and Managed Object Format (MOF) and their practical applications. 
 
 ### **Code Maintenance in Git Hub and History of Execution Summary**
 
-All the codes are saved to Git Hub location https://github.com/sibilawrenceatu/Python.git.
-The project has 5 branches named "main" (where all the final codes are merged and saved from other branches), a "test" branch (this branch is used to test the codes before committing to the main branch), a "dev" branch (used by developers of the project for new developments related to existing project), a "Newfeatures" branch (where new features are developed and merge to the main branch), and a "Bug-Fix" branch which is used to fixing the bugs in the exisitng project and finally merge to the main branch.
+All the codes are saved to Git Hub location https://github.com/sibilawrenceatu/PowerShell.git. 
+The project has 5 branches named "main" (where all the final codes are merged and saved from other branches), a "test" branch (this branch is used to test the codes before committing to the main branch), a "dev" branch (used by developers of the project for new developments related to existing project), a "Newfeatures" branch (where new features are developed and merge to the main branch), and a "bugfix" branch which is used to fixing the bugs in the exisitng project and finally merge to the main branch.
 
-The "Newfeatures" branch was updated with necessary modifications to the comments in the python programs and finally merged to the main branch. The versioning of all committed files are available and can be accessed from Git-Hub on demand by either using the command line interface or the Visual Studio Code software by cloning the repository URL https://github.com/sibilawrenceatu/Python.git.  
+The "bugfix" branch was updated with necessary modifications to the comments in the powershell scripts and finally merged to the main branch. The versioning of all committed files are available and can be accessed from Git-Hub on demand by either using the command line interface or the Visual Studio Code software by cloning the repository URL https://github.com/sibilawrenceatu/PowerShell.git. 
 
 ## **Author**
 
